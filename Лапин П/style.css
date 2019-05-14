@@ -1,0 +1,52 @@
+.header{
+    background-color: #f7f7f7;
+    position: relative;
+    margin-bottom: 0px;
+    padding: 35px;
+    width: 1600px;
+    height: 125px;;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-around;
+     }
+     body{
+         background-color: white
+     }
+     .cnopci{
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 16px;
+        line-height: 1;
+        font-weight: 900;
+        color: #4e4e4e;
+        font-family: 'Roboto Condensed', sans-serif;
+        text-shadow: none;
+        padding: 12px 15px;
+        display: block;
+        list-style: none;
+    
+     }
+     .container{
+        width: auto;
+        padding-right: 25px;
+        padding-left: 25px;
+        background-color: #333333;
+     }
+     .joj{
+         color:white;
+     }
+    li {
+            list-style-type: none;
+            display: inline;
+
+    }
+    .poloska{
+        background-color: #f7f7f7;
+        height: 230px;
+        width: 1600px;
+        justify-content: center;
+    }
+    .cnopci{
+        display: flex;
+    }
